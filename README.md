@@ -1,11 +1,9 @@
 
- - Hi, I’m @aioont <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  
-
-
+- Hi, I’m @aioont <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 - 👀 I’m interested in programming, hacking.
 - 📫 How to reach me https://www.instagram.com/aioon_t/
 - 🫂 I'm one tap away.
+ <hr>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></img>
   <div id="badges">
@@ -20,6 +18,15 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=aioont&color=orange" alt="Profile Views"/>
+  
+  
+  
+  ### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aioont&theme=vue&hide_border=true&border_radius=15&mode=weekly)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aioont&layout=compact&theme=vision-friendly-dark)](https://github.com/aioont/github-readme-stats)
 </div>
 
  
@@ -29,12 +36,7 @@
 
 ---
 
-### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aioont&theme=vue&hide_border=true&border_radius=15&mode=weekly)](https://git.io/streak-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aioont&layout=compact&theme=vision-friendly-dark)](https://github.com/aioont/github-readme-stats)
 
 
 
