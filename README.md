@@ -10,10 +10,10 @@
     <a href="https://www.linkedin.com/in/abhinand-i-687984249">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://developers.google.com/profile/u/abhinand_i">
+    <a href=" https://aioont.github.io/abhinand.github.io/">
       <img src="https://img.shields.io/badge/Website-red?style=for-the-badge" alt="Webiste badge"/>
     </a>
-    <a href="https://aioont.github.io/abhinand.github.io/">
+    <a href="https://developers.google.com/profile/u/abhinand_i">
       <img src="https://img.shields.io/badge/Google Dev-blue?style=for-the-badge" alt="Google Dev"/>
     </a>
   </div>
